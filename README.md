@@ -18,3 +18,11 @@ def add(a,b)
 print(" the addition of a and b  is:")
 add(3,4)
  -----
+ 
+ #include<stdio.h>
+ #include<conio.h>
+ void main()
+ {
+ print("hello world")
+ }
+ 
